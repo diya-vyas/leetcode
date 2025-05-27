@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-vyas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/diya-vyas/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-vyas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/diya-vyas/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-vyas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
