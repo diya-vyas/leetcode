@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/diya-vyas/leetcode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/diya-vyas/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/diya-vyas/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
