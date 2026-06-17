@@ -1,5 +1,6 @@
-# leetcode
-A collection of LeetCode questions 
+🚀 LeetCode Journey
+
+This repository contains my solutions to LeetCode problems that I solve as part of my Data Structures and Algorithms (DSA) practice.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -114,3 +115,6 @@ A collection of LeetCode questions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-vyas/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
+📈 Progress
+I regularly update this repository with new solutions and explanations as I continue my coding journey.
+⭐ Feel free to explore the solutions and suggest improvements!
