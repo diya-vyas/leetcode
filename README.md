@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-vyas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/diya-vyas/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1395-minimum-time-visiting-all-points](https://github.com/diya-vyas/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-vyas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -52,6 +53,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0258-add-digits](https://github.com/diya-vyas/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/diya-vyas/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1395-minimum-time-visiting-all-points](https://github.com/diya-vyas/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Dynamic Programming
 |  |
