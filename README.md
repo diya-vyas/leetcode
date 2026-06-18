@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0258-add-digits](https://github.com/diya-vyas/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/diya-vyas/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/diya-vyas/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1395-minimum-time-visiting-all-points](https://github.com/diya-vyas/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | ------- |
 | [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/diya-vyas/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/diya-vyas/leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -116,6 +118,10 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-vyas/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/diya-vyas/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
 📈 Progress
 
