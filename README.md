@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | ------- |
 | [0015-3sum](https://github.com/diya-vyas/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/diya-vyas/leetcode/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/diya-vyas/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/diya-vyas/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/diya-vyas/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
 📈 Progress
