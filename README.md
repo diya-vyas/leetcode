@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0200-number-of-islands](https://github.com/diya-vyas/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-vyas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -37,6 +38,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0015-3sum](https://github.com/diya-vyas/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/diya-vyas/leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/diya-vyas/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
