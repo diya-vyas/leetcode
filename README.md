@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diya-vyas/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/diya-vyas/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/diya-vyas/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/diya-vyas/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
