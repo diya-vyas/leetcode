@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0283-move-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-vyas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/diya-vyas/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/diya-vyas/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1395-minimum-time-visiting-all-points](https://github.com/diya-vyas/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
