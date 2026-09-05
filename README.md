@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diya-vyas/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/diya-vyas/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/diya-vyas/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | ------- |
 | [0001-two-sum](https://github.com/diya-vyas/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diya-vyas/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-vyas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -51,6 +53,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0015-3sum](https://github.com/diya-vyas/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/diya-vyas/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -103,6 +106,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-vyas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
@@ -129,6 +133,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-vyas/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -143,6 +148,10 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/diya-vyas/leetcode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
 📈 Progress
 
