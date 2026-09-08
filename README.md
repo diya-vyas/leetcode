@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0001-two-sum](https://github.com/diya-vyas/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-vyas/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/diya-vyas/leetcode/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/diya-vyas/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/diya-vyas/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/diya-vyas/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diya-vyas/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
 ## Linked List
@@ -133,6 +135,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-vyas/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/diya-vyas/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
