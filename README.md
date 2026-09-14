@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0031-next-permutation](https://github.com/diya-vyas/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/diya-vyas/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/diya-vyas/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diya-vyas/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | ------- |
 | [0001-two-sum](https://github.com/diya-vyas/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diya-vyas/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
@@ -123,6 +125,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/diya-vyas/leetcode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
