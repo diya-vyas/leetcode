@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-vyas/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/diya-vyas/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/diya-vyas/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/diya-vyas/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/diya-vyas/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -70,6 +71,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/diya-vyas/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/diya-vyas/leetcode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/diya-vyas/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -124,6 +126,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/diya-vyas/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/diya-vyas/leetcode/tree/master/0200-number-of-islands) |
