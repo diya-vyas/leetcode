@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/diya-vyas/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/diya-vyas/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -42,6 +43,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0073-set-matrix-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/diya-vyas/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/diya-vyas/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/diya-vyas/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +68,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/diya-vyas/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -122,6 +125,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/diya-vyas/leetcode/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-vyas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
@@ -170,6 +174,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/diya-vyas/leetcode/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
