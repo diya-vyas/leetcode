@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0119-pascals-triangle-ii](https://github.com/diya-vyas/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diya-vyas/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/diya-vyas/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/diya-vyas/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/diya-vyas/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
@@ -96,6 +97,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0118-pascals-triangle](https://github.com/diya-vyas/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/diya-vyas/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diya-vyas/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/diya-vyas/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
 ## Linked List
 |  |
