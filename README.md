@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0118-pascals-triangle](https://github.com/diya-vyas/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/diya-vyas/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diya-vyas/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/diya-vyas/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/diya-vyas/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/diya-vyas/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0001-two-sum](https://github.com/diya-vyas/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diya-vyas/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/diya-vyas/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/diya-vyas/leetcode/tree/master/0229-majority-element-ii) |
@@ -209,6 +211,10 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/diya-vyas/leetcode/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/diya-vyas/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
 📈 Progress
 
