@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0136-single-number](https://github.com/diya-vyas/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/diya-vyas/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/diya-vyas/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/diya-vyas/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/diya-vyas/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/diya-vyas/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/diya-vyas/leetcode/tree/master/0229-majority-element-ii) |
@@ -63,6 +64,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0075-sort-colors](https://github.com/diya-vyas/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/diya-vyas/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/diya-vyas/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/diya-vyas/leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/diya-vyas/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -86,6 +88,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | ------- |
 | [0013-roman-to-integer](https://github.com/diya-vyas/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/diya-vyas/leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/diya-vyas/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/diya-vyas/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/diya-vyas/leetcode/tree/master/0368-largest-divisible-subset) |
