@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0485-max-consecutive-ones](https://github.com/diya-vyas/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/diya-vyas/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/diya-vyas/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/diya-vyas/leetcode/tree/master/0704-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/diya-vyas/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1395-minimum-time-visiting-all-points](https://github.com/diya-vyas/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -119,6 +120,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-vyas/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/diya-vyas/leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/diya-vyas/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
