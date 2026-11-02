@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0015-3sum](https://github.com/diya-vyas/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/diya-vyas/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/diya-vyas/leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/diya-vyas/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/diya-vyas/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/diya-vyas/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/diya-vyas/leetcode/tree/master/0054-spiral-matrix) |
@@ -118,6 +119,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/diya-vyas/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/diya-vyas/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/diya-vyas/leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/diya-vyas/leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/diya-vyas/leetcode/tree/master/0704-binary-search) |
