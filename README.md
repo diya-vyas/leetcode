@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0560-subarray-sum-equals-k](https://github.com/diya-vyas/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/diya-vyas/leetcode/tree/master/0704-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/diya-vyas/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/diya-vyas/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1395-minimum-time-visiting-all-points](https://github.com/diya-vyas/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diya-vyas/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -135,6 +136,7 @@ This repository contains my solutions to LeetCode problems that I solve as part 
 | [0493-reverse-pairs](https://github.com/diya-vyas/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/diya-vyas/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/diya-vyas/leetcode/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/diya-vyas/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
